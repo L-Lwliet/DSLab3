@@ -44,4 +44,6 @@ int main(){
             cout<<st[i][0]<<endl;
         }
     }
+    
+    return 0;
 }
